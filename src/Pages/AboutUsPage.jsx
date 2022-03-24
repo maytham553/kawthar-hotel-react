@@ -13,21 +13,21 @@ SwiperCore.use([Autoplay]);
 
 class AboutPage extends React.Component {
         srcs = [
-                "images/collection-1.jpg",
-                "images/collection-2.jpg",
-                "images/collection-3.jpg",
-                "images/collection-4.jpg",
-                "images/collection-5.jpg",
-                "images/collection-6.jpg",
-                "images/collection-7.jpg",
-                "images/collection-8.jpg",
-                "images/collection-9.jpg",
-                "images/collection-10.jpg",
-                "images/collection-11.jpg",
-                "images/collection-12.jpg",
-                "images/collection-14.jpg",
-                "images/collection-15.jpg",
-                "images/collection-16.jpg",
+                "images/collection_lg/collection-1.jpg",
+                "images/collection_lg/collection-2.jpg",
+                "images/collection_lg/collection-3.jpg",
+                "images/collection_lg/collection-4.jpg",
+                "images/collection_lg/collection-5.jpg",
+                "images/collection_lg/collection-6.jpg",
+                "images/collection_lg/collection-7.jpg",
+                "images/collection_lg/collection-8.jpg",
+                "images/collection_lg/collection-9.jpg",
+                "images/collection_lg/collection-10.jpg",
+                "images/collection_lg/collection-11.jpg",
+                "images/collection_lg/collection-12.jpg",
+                "images/collection_lg/collection-14.jpg",
+                "images/collection_lg/collection-15.jpg",
+                "images/collection_lg/collection-16.jpg",
 
         ];
 

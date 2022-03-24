@@ -25,19 +25,18 @@ export default function metaData(lang) {
                         },
                         info: {
                                 text: {
-                                        upper: "يتميز فندق مرسى الكوثر الدولي والذي تبلغ مساحته (2100 متر مربع ) بموقعه الذي يبعد (100 متر ) عن مرقد الامام علي (ع) من جهة و(700 متر ) عن بحر النجف من جهة أخرى .",
-                                        lower: "اطلالات مميزة من الغرف على مرقد الامام علي (ع) او بحر النجف لتحصل على تجربة فريدة"
+                                        upper: "مرحبًا بكم في منزل الضيافة في فندق مرسى الكوثر الدولي ، الذي يقع على مساحة 2100 متر مربع على بعد مسافة قصيرة سيرًا على الأقدام من ضريح الإمام علي (عليه السلام) ، ويقدم مزيجًا فريدًا من الإقامة المخدومة الفاخرة يتنوع ما بين غرف ديلوكس و سوبريور بالإضافة إلى 4 مطاعم مختلفة.",
+                                        lower: "سواء كنت تزور المدينة للزيارة أو العمل ، يرحب بك فندق مرسى الكوثر لتجربة الضيافة الحقيقية في النجف."
                                 }
                         },
                         rooms: {
                                 sectionTitle: 'الغرف',
-                                text: "يحتوي على (9 طوابق ) متضمنة الغرف المفردة والثنائية والثلاثية والاجنحة التي صممت بهندسة معمارية حديثة ومتميزة وذات فخامة عالية."
+                                text: "يضم الفندق 236 غرفة فاخرة مخدومة ومصممة بشكل جميل تقدم مجموعة مختارة من الغرف الفردية والغرف المزدوجة والغرف الثلاثية بالإضافة إلى أجنحة بغرفة نوم واحدة وجناح رئاسي."
                         },
                         restaurant: {
                                 sectionTitle: "المطعم",
                                 text: {
-                                        upper: "خدمة مطاعم تعطيك انطباعا مختلفا .",
-                                        lower: "يتوفر اربع مطاعم باطلالات مختلفة منها واحد vip مطل على مرقد الامام علي (ع)"
+                                        upper: "يقدم مجموعة واسعة من خيارات تناول الطعام ، ويضم الفندق 4 مطاعم مختلفة مع القدرة على استيعاب المجموعات والضيوف الأفراد وفعاليات كبار الشخصيات.",
                                 }
                         },
                         location: {
@@ -65,9 +64,9 @@ export default function metaData(lang) {
                 },
                 aboutPage: {
                         text: {
-                                _1: " تبقى تجربة السفر مقترنه بتجربة الاقامة واختيار الفندق الذي يوفر اقصى مستوى من الراحة والفخامة وتكامل الخدمات وكل هذا متوفر في فندق مرسى الكوثر الدولي الذي يقدم أفضل خيارات الإقامة و البقاء في مدينة النجف الاشرف بأفضل الأسعار. نحن نعمل بجد لتوفير أفضل راحة و استرخاء لتجربة لا تنسى .",
-                                _2: "يتميز فندق مرسى الكوثر الدولي والذي يبلغ مساحته (2100 متر مربع ) بموقعه الذي يبعد (100 متر ) عن مقام الامام علي عليه السلام من جهة و(700 متر ) عن بحر النجف من جهة أخرى .",
-                                _3: "يحتوي على (9 طوابق ) متضمنة الغرف المفردة والثنائية والثلاثية والاجنحة التي صممت بهندسة معمارية حديثة ومتميزة .",
+                                _1: "مرحبًا بكم في منزل الضيافة في فندق مرسى الكوثر الدولي ، الذي يقع على مساحة 2100 متر مربع على بعد مسافة قصيرة سيرًا على الأقدام من ضريح الإمام علي (عليه السلام) ، ويقدم مزيجًا فريدًا من الإقامة المخدومة الفاخرة يتنوع ما بين غرف ديلوكس و سوبريور بالإضافة إلى 4 مطاعم مختلفة.",
+                                _2: "سواء كنت تزور المدينة للزيارة أو العمل ، يرحب بك فندق مرسى الكوثر لتجربة الضيافة الحقيقية في النجف.",
+                                _3: "يضم الفندق 236 غرفة فاخرة مخدومة ومصممة بشكل جميل تقدم مجموعة مختارة من الغرف الفردية والغرف المزدوجة والغرف الثلاثية بالإضافة إلى أجنحة بغرفة نوم واحدة وجناح رئاسي.",
                                 _4: "يقدم الفندق أماكن إقامة حديثة وفاخرة مع الضيافة العربية التقليدية كما يوفر جميع المرافق الإقامة المريحة مع مفروشات جميلة وخدمة الواي فاي المجانية وتكييف مركزي اضافة الى خدمة كيً الملابس وخدمات النقل من والى المطار عند الحاجة. .",
                                 _5:"تم تزيين كل وحدة من وحدات الفندق بالأعمال الفنية الأنيقة، وتحتوي جميع الأجنحة على صالة معيشة كما تشتمل جميع الأجنحة و الغرف على تلفزيون بشاشة ذكية كبيرة وآلة صنع الشاي / القهوة وصندوق ودائع آمن. كما يشتمل الحمام على لوازم استحمام مجانية ."
                         },
@@ -111,24 +110,23 @@ export default function metaData(lang) {
 
                 homePage: {
                         header: {
-                                text: { upper: "LUXURE", lower: "COMFORT" },
-                                buttonText: 'Boking Now'
+                                text: { upper: "LUXURY", lower: "COMFORT" },
+                                buttonText: 'Booking Now'
                         },
                         info: {
                                 text: {
-                                        upper: "Marsa Al Kawthar International Hotel, which has an area of (2100 square meters) in its location which is (100 meters) from the shrine of Imam Ali (peace be upon him) on one side and (700 meters) from  Al  Najaf Sea on the other side.",
-                                        lower: "Extraordinary views from the rooms on the shrine of Imam Ali (peace be upon him) and Al Najaf sea to get a unique experience."
+                                        upper: "Welcome to the home of Hospitality at Marsa Al Kawthar International Hotel, sitting on an area of 2100 square meters with a walking distance of 100 meters from Imam Ali Holy Shrine (peace be on him), the Hotel Offers a unique blend of luxury Serviced Accommodation varies between Deluxe and Superior Rooms in addition to 4 different restaurants.",
+                                        lower: "Whether you are visiting the City for Zyarat or Business, Marsa Al Kawthar Hotel welcomes you to experience the true hospitality in Najaf."
                                 }
                         },
                         rooms: {
                                 sectionTitle: 'ROOMS',
-                                text: "It contains (9 floors) including single rooms , doubles  rooms ,triple rooms and suites which  were  designed with high modern architecture, distinguished and high luxury."
+                                text: "The Hotel features 236 luxury Serviced and beautifully designed Rooms offering a selection of Single rooms, Twin Rooms, Triple Rooms in addition to 1 Bed Room Suites and a Presidential Suite."
                         },
                         restaurant: {
                                 sectionTitle: "RESTAURANT",
                                 text: {
-                                        upper: "Restaurant services that give you a different impression.",
-                                        lower: "There are four restaurants with different views, including one overlooking the shrine of Imam Ali (peace be upon him)."
+                                        upper: "Offering a wide of selection of dining experience the Hotel Features 4 different Restaurants with the ability to accommodate Groups, Individual Guests and VIP events.",
                                 }
                         },
                         location: {
@@ -156,9 +154,9 @@ export default function metaData(lang) {
                 },
                 aboutPage: {
                         text: {
-                                _1: "The travel experience remains associated with the accommodation experience and the choice of hotel which   provides the highest level of comfort, luxury with the perfect  services, all of  these are  available at the Marsa Al- Kawthar International Hotel, which offers the best accommodation , stay options   and the special prices  in the holy Najaf city. We work hard to provide the best comfort and relaxation for an unforgettable experience .",
-                                _2: "Marsa Al Kawthar International Hotel, which has an area of (2100 square meters) in its location, which is (100 meters) from the shrine of Imam Ali,( peace be upon him), and (700 meters) from the Najaf Sea on the other side.",
-                                _3: "It contains (9 floors) including single, double , triple rooms and suites, which are designed with a modern and distinctive architecture.",
+                                _1: "Welcome to the home of Hospitality at Marsa Al Kawthar International Hotel, sitting on an area of 2100 square meters with a walking distance of 100 meters from Imam Ali Holy Shrine (peace be on him), the Hotel Offers a unique blend of luxury Serviced Accommodation varies between Deluxe and Superior Rooms in addition to 4 different restaurants.",
+                                _2: "Whether you are visiting the City for Zyarat or Business, Marsa Al Kawthar Hotel welcomes you to experience the true hospitality in Najaf.",
+                                _3: "The Hotel features 236 luxury Serviced and beautifully designed Rooms offering a selection of Single rooms, Twin Rooms, Triple Rooms in addition to 1 Bed Room Suites and a Presidential Suite.",
                                 _4: "The hotel offers modern and luxurious accommodation with the traditional Arabic hospitality. It provides all comfortable accommodation facilities with beautiful furnishings, free Wi-Fi, central air conditioning, laundry  service and airport transfers.",
                                 _5:"Each of the hotel's units is decorated with elegant style artwork. All suites have  a living room. As  all rooms and suites include a large smart-screen TV, tea/coffee maker and safety deposit box. The bathroom includes free toiletries. "
                         },

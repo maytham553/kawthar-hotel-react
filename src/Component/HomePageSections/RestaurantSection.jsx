@@ -12,9 +12,6 @@ class RestaurantSection extends React.Component {
                                                                 <h2>{metaData.sectionTitle}</h2>
                                                                 <p>
                                                                         {metaData.text.upper}
-
-                                                                                <br />
-                                                                                {metaData.text.lower}
                                                                 </p>
                                                                 {/* <button className="btn btn-white">استمتع بالعشاء معنا</button>  */}
                                                         </div>
